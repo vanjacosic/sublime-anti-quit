@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["alt+f4"], "command": "anti_quit"
+    }
+]
