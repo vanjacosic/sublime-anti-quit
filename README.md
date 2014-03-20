@@ -26,7 +26,7 @@ Please use the following instructions, depending on your OS. *Note: If you use S
 
 ### On Windows
 
-	$ git clone git@github.com:vanjacosic/sublime-anti-quit.git "%APPDATA%\SublimeText 3\AntiQuit"
+	$ git clone git@github.com:vanjacosic/sublime-anti-quit.git "%APPDATA%\SublimeText 3\Packages\AntiQuit"
 
 *Thanks to [Jakob Holmelund](https://github.com/jakobholmelund) for the Windows instructions and testing it out.*
 
