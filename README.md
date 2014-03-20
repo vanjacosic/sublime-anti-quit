@@ -14,19 +14,21 @@ OS X: `Cmd+q` - Windows: `Alt+F4` - Linux: `Ctrl+q`
 
 ## Installation
 
-The plugin is not in Package Control yet.
+The plugin is not in Package Control yet. Untill it is, the easiest way is to clone this repo into your Packages folder.
 
-Untill it is, the easiest way is to clone this repo into your Packages folder.
+Please use the following instructions, depending on your OS. *Note: If you use Sublime Text 2, just replace the `3` with a `2` in the path.*
 
-Clone url: `git@github.com:vanjacosic/sublime-anti-quit.git`
+### On OS X
 
-Packages path: `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/AntiQuit` 
-
-Example (OS X):
-
-	$ git clone git@github.com:vanjacosic/sublime-anti-quit.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/AntiQuit
+	$ git clone git@github.com:vanjacosic/sublime-anti-quit.git \
+	 ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/AntiQuit
 	
-*Note: If you use Sublime Text 3, just replace the `2` with a `3` in the path.*
+
+### On Windows
+
+	$ git clone git@github.com:vanjacosic/sublime-anti-quit.git "%APPDATA%\SublimeText 3\AntiQuit"
+
+*Thanks to [Jakob Holmelund](https://github.com/jakobholmelund) for the Windows instructions and testing it out.*
 
 ## Notes
 
